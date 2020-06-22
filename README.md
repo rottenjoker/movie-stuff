@@ -1,8 +1,8 @@
 # A cinephile's personal collection
 
 ## Contents
-- Databases
-- Studios
+- [Databases](https://github.com/stormstout01/movie-stuff/blob/master/README.md#databases)
+- [Studios](https://github.com/stormstout01/movie-stuff/blob/master/README.md#studios)
 - ...
 - ...
 - Film Critics
@@ -29,6 +29,6 @@
 - JP
 - KR
 
-## Film Critics
+## [Film Critics](https://github.com/stormstout01/movie-stuff/blob/master/README.md#film-critics)
 
-## Miscellaneous
+## [Miscellaneous](https://github.com/stormstout01/movie-stuff/blob/master/README.md#miscellaneous)
