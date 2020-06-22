@@ -5,8 +5,8 @@
 - [Studios](https://github.com/stormstout01/movie-stuff/blob/master/README.md#studios)
 - ...
 - ...
-- Film Critics
-- Miscellaneous
+- [Film Critics](https://github.com/stormstout01/movie-stuff/blob/master/README.md#film-critics)
+- [Miscellaneous](https://github.com/stormstout01/movie-stuff/blob/master/README.md#miscellaneous)
 
 ## Databases
 - General
@@ -29,6 +29,6 @@
 - JP
 - KR
 
-## [Film Critics](https://github.com/stormstout01/movie-stuff/blob/master/README.md#film-critics)
+## Film Critics
 
-## [Miscellaneous](https://github.com/stormstout01/movie-stuff/blob/master/README.md#miscellaneous)
+## Miscellaneous
