@@ -23,7 +23,7 @@
   - [Criterion Collection](https://www.criterion.com/)
 - CN
 - UK
-  - [ARROW FILMS](https://arrowfilms.com/)
+  - [ARROW](https://arrowfilms.com/)
   - [BFI](https://www.bfi.org.uk/)
 - FR
 - JP
