@@ -13,14 +13,21 @@
   - [IMDb](https://www.imdb.com/)
   - [TMDb](https://www.themoviedb.org/)
   - [Rotten Tomatoes](https://www.rottentomatoes.com/)
+  - [Movie-Censorship](https://www.movie-censorship.com/)
   - [Mtime时光网](http://www.mtime.com/)
   - [豆瓣电影](https://movie.douban.com/)
-- Blu-Ray Disc
+- Blu-Ray Disc (HD & UHD)
   - [Blu-Ray](https://www.blu-ray.com/)
-
+  - [High-Def Digest](https://bluray.highdefdigest.com/)
+  - [caps-a-holic](https://caps-a-holic.com/)
+- DVD (SD)
+  - [DVDs ReleaseDates](https://www.dvdsreleasedates.com/)
+  - [caps-a-holic](http://sd.caps-a-holic.com/)
 ## Studios
 - US
   - [Criterion Collection](https://www.criterion.com/)
+  - [Kino Lorber](https://www.kinolorber.com/)
+  - 
 - CN
 - UK
   - [ARROW](https://arrowfilms.com/)
@@ -32,3 +39,5 @@
 ## Film Critics
 
 ## Miscellaneous
+- Subtitles
+- Posters
