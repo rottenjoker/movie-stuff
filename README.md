@@ -18,11 +18,11 @@
   - [豆瓣电影](https://movie.douban.com/)
 - Blu-Ray Disc (HD & UHD)
   - [Blu-Ray](https://www.blu-ray.com/)
-  - [DVDBeaver] (http://www.dvdbeaver.com/)
+  - [DVDBeaver](http://www.dvdbeaver.com/)
   - [High-Def Digest](https://bluray.highdefdigest.com/)
   - [caps-a-holic](https://caps-a-holic.com/)
 - DVD (SD)
-  - [DVDBeaver] (http://www.dvdbeaver.com/)
+  - [DVDBeaver](http://www.dvdbeaver.com/)
   - [DVDs ReleaseDates](https://www.dvdsreleasedates.com/)
   - [caps-a-holic](http://sd.caps-a-holic.com/)
 ## Studios
