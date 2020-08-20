@@ -30,15 +30,17 @@
 
 ## Studios
 - US
-  - [Criterion Collection](https://www.criterion.com/)
+  - [The Criterion Collection](https://www.criterion.com/)
   - [Kino Lorber](https://www.kinolorber.com/)
   - 
 
 - CN
 
 - UK
-  - [ARROW](https://arrowfilms.com/)
+  - [ARROW FILMS](https://arrowfilms.com/)
   - [BFI](https://www.bfi.org.uk/)
+  - [Indicator](https://www.powerhousefilms.co.uk/)
+  - [Eureka](https://eurekavideo.co.uk/)
 
 - FR
 
